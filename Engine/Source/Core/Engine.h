@@ -11,4 +11,5 @@ public:
 
     static constexpr std::string_view version() { return Engine_VERSION_STRING; };
 };
-}
+
+}  // namespace LifeExe
